@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6IjZjMTRkNDczLTkxZDItNDcxYi04ODA4LWYzNjgyY2FlNDZmZCIsImRlc2NyaXB0aW9uIjoiTWFkZSB3aXRoIFNrZXRjaHBhZCAtIGh0dHBzOi8vc2tldGNoLmlvL3NrZXRjaHBhZCIsIm1ldGFkYXRhIjp7fSwiY2xpcFBhdGgiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsImxpbmVXaWR0aCI6MX19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJwbmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjYwLCJoZWlnaHQiOjEyMCwicGFnZXMiOnsibGVuZ3RoIjoxLCJkYXRhIjpbeyJ3aWR0aCI6NjAsImhlaWdodCI6MTIwfV19fQ==" width="60" height="120" viewBox="0 0 60 120" sketchjs:version="5.1.316">
+<defs>
+	<pattern id="dna_2501809693" src="/sketchpad-v5.1/media/blueprint" patternUnits="userSpaceOnUse" width="20" height="20">
+	</pattern>
+</defs>
+<path sketchjs:tool="rectangle" style="fill: url(#dna_2501809693); mix-blend-mode: source-over; fill-opacity: 1; fill-rule: nonzero; vector-effect: non-scaling-stroke;" d="M0 0 L60 0 60 120 0 120 z"/>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.7634189637138331,0,0,0.763418963713833,8.763418963713834,79.76341896371383)">
+	<g sketchjs:uid="1" style="">
+		<rect id="canvas_background" x="-1" y="-1" width="802" height="602" sketchjs:uid="2" style="fill: none;"/>
+	</g>
+	<g sketchjs:uid="3" style="">
+		<g id="svg_1" sketchjs:uid="4" style="">
+			<path id="svg_2" d="m38.841969,4.595782l-19.448,0c-7.608,0 -13.776,6.167 -13.776,13.776l0,11.345c0,6.929 5.306,12.732 12,13.716l0,-3.992c0,-0.553 0.448,-1 1,-1s1,0.447 1,1l0,4.154l0,0l0,0l0,7.446c0,0.503 0.384,0.755 0.74,0.399l1.521,-1.521c4.116,-4.116 9.699,-6.325 15.52,-6.325l1.443,0c7.608,0.002 13.776,-6.269 13.776,-13.877l0,-11.345c0,-7.609 -6.168,-13.776 -13.776,-13.776z" sketchjs:uid="5" style="fill: #7383BF; stroke-width: 0;"/>
+			<path id="svg_5" d="m34.617969,17.607782l-11,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l11,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="6" style="fill: #FFFFFF; stroke-width: 0;"/>
+			<path id="svg_6" d="m39.617969,24.607782l-21,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l21,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="7" style="fill: #FFFFFF; stroke-width: 0;"/>
+			<path id="svg_7" d="m39.617969,31.607782l-21,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l21,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="8" style="fill: #FFFFFF; stroke-width: 0;"/>
+		</g>
+		<g id="svg_8" sketchjs:uid="9" style="">
+		</g>
+		<g id="svg_9" sketchjs:uid="10" style="">
+		</g>
+		<g id="svg_10" sketchjs:uid="11" style="">
+		</g>
+		<g id="svg_11" sketchjs:uid="12" style="">
+		</g>
+		<g id="svg_12" sketchjs:uid="13" style="">
+		</g>
+		<g id="svg_13" sketchjs:uid="14" style="">
+		</g>
+		<g id="svg_14" sketchjs:uid="15" style="">
+		</g>
+		<g id="svg_15" sketchjs:uid="16" style="">
+		</g>
+		<g id="svg_16" sketchjs:uid="17" style="">
+		</g>
+		<g id="svg_17" sketchjs:uid="18" style="">
+		</g>
+		<g id="svg_18" sketchjs:uid="19" style="">
+		</g>
+		<g id="svg_19" sketchjs:uid="20" style="">
+		</g>
+		<g id="svg_20" sketchjs:uid="21" style="">
+		</g>
+		<g id="svg_21" sketchjs:uid="22" style="">
+		</g>
+		<g id="svg_22" sketchjs:uid="23" style="">
+		</g>
+	</g>
+</g>
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.7634189637138331,0,0,0.763418963713833,8.763418963713834,0.763418963713833)">
+	<g sketchjs:uid="1" style="">
+		<rect id="canvas_background" x="-1" y="-1" width="802" height="602" sketchjs:uid="2" style="fill: none;"/>
+	</g>
+	<g sketchjs:uid="3" style="">
+		<g id="svg_1" sketchjs:uid="4" style="">
+			<path id="svg_2" d="m38.841969,4.595782l-19.448,0c-7.608,0 -13.776,6.167 -13.776,13.776l0,11.345c0,6.929 5.306,12.732 12,13.716l0,-3.992c0,-0.553 0.448,-1 1,-1s1,0.447 1,1l0,4.154l0,0l0,0l0,7.446c0,0.503 0.384,0.755 0.74,0.399l1.521,-1.521c4.116,-4.116 9.699,-6.325 15.52,-6.325l1.443,0c7.608,0.002 13.776,-6.269 13.776,-13.877l0,-11.345c0,-7.609 -6.168,-13.776 -13.776,-13.776z" sketchjs:uid="5" style="fill: #b8b9bc; fill-rule: nonzero; fill-opacity: 1; stroke-width: 0;"/>
+			<path id="svg_5" d="m34.617969,17.607782l-11,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l11,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="6" style="fill: #FFFFFF; stroke-width: 0;"/>
+			<path id="svg_6" d="m39.617969,24.607782l-21,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l21,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="7" style="fill: #FFFFFF; stroke-width: 0;"/>
+			<path id="svg_7" d="m39.617969,31.607782l-21,0c-0.552,0 -1,-0.447 -1,-1s0.448,-1 1,-1l21,0c0.552,0 1,0.447 1,1s-0.448,1 -1,1z" sketchjs:uid="8" style="fill: #FFFFFF; stroke-width: 0;"/>
+		</g>
+		<g id="svg_8" sketchjs:uid="9" style="">
+		</g>
+		<g id="svg_9" sketchjs:uid="10" style="">
+		</g>
+		<g id="svg_10" sketchjs:uid="11" style="">
+		</g>
+		<g id="svg_11" sketchjs:uid="12" style="">
+		</g>
+		<g id="svg_12" sketchjs:uid="13" style="">
+		</g>
+		<g id="svg_13" sketchjs:uid="14" style="">
+		</g>
+		<g id="svg_14" sketchjs:uid="15" style="">
+		</g>
+		<g id="svg_15" sketchjs:uid="16" style="">
+		</g>
+		<g id="svg_16" sketchjs:uid="17" style="">
+		</g>
+		<g id="svg_17" sketchjs:uid="18" style="">
+		</g>
+		<g id="svg_18" sketchjs:uid="19" style="">
+		</g>
+		<g id="svg_19" sketchjs:uid="20" style="">
+		</g>
+		<g id="svg_20" sketchjs:uid="21" style="">
+		</g>
+		<g id="svg_21" sketchjs:uid="22" style="">
+		</g>
+		<g id="svg_22" sketchjs:uid="23" style="">
+		</g>
+	</g>
+</g>
+</svg>
